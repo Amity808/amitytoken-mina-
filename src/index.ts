@@ -1,3 +1,3 @@
-import { AMITYCLEVCONTRACT } from './BasicTokenContract.js';
-
-export { AMITYCLEVCONTRACT };
+import { FungibleToken } from './FungibleToken.js';
+import { FungibleTokenAdmin } from './FungibleTokenAdmin.js';
+export { FungibleToken, FungibleTokenAdmin };
